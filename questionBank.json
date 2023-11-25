@@ -1,0 +1,935 @@
+[
+      {
+        "question": "What is the formula for velocity?",
+        "subject": "Physics",
+        "topic": "Motion",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "subject": "History",
+        "topic": "Achievements",
+        "difficulty": "Medium",
+        "marks": 9
+      },
+      {
+        "question": "What is the concept of 'cognitive dissonance' in psychology?",
+        "subject": "Psychology",
+        "topic": "Cognition",
+        "difficulty": "Hard",
+        "marks": 15
+      },
+      {
+        "question": "Name three famous Greek philosophers.",
+        "subject": "Philosophy",
+        "topic": "Ancient Philosophy",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "Define the concept of biodiversity.",
+        "subject": "Environmental Science",
+        "topic": "Biodiversity",
+        "difficulty": "Easy",
+        "marks": 4
+      },
+      {
+        "question": "What is the purpose of the Hubble Space Telescope?",
+        "subject": "Astronomy",
+        "topic": "Space Exploration",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "Solve the following integral: ∫ (2x + 3) dx.",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Hard",
+        "marks": 14
+      },
+      {
+        "question": "Name the seven wonders of the ancient world.",
+        "subject": "History",
+        "topic": "Ancient Civilizations",
+        "difficulty": "Medium",
+        "marks": 7
+      },
+      {
+        "question": "Explain the concept of sustainable development.",
+        "subject": "Environmental Science",
+        "topic": "Sustainability",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "subject": "Art History",
+        "topic": "Renaissance Art",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "subject": "Environmental Science",
+        "topic": "Climate Change",
+        "difficulty": "Medium",
+        "marks": 9
+      },
+      {
+        "question": "What is the significance of the Declaration of Independence?",
+        "subject": "History",
+        "topic": "American Revolution",
+        "difficulty": "Medium",
+        "marks": 9
+      },
+      {
+        "question": "Explain the concept of natural selection in evolution.",
+        "subject": "Biology",
+        "topic": "Evolution",
+        "difficulty": "Hard",
+        "marks": 16
+      },
+      {
+        "question": "Who invented the telephone?",
+        "subject": "Inventions",
+        "topic": "Communication",
+        "difficulty": "Easy",
+        "marks": 4
+      },
+      {
+        "question": "What is the purpose of the United Nations?",
+        "subject": "Political Science",
+        "topic": "International Relations",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "Solve the following trigonometric equation: sin(x) + cos(x) = 1.",
+        "subject": "Mathematics",
+        "topic": "Trigonometry",
+        "difficulty": "Hard",
+        "marks": 14
+      },
+      {
+        "question": "Name three major types of rock formations.",
+        "subject": "Geology",
+        "topic": "Earth Science",
+        "difficulty": "Medium",
+        "marks": 7
+      },
+      {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "subject": "Literature",
+        "topic": "Novel",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the function of a catalyst in a chemical reaction?",
+        "subject": "Chemistry",
+        "topic": "Chemical Reactions",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "Explain the concept of cultural relativism.",
+        "subject": "Anthropology",
+        "topic": "Cultural Anthropology",
+        "difficulty": "Hard",
+        "marks": 17
+      },
+      {
+        "question": "Define the concept of GDP (Gross Domestic Product).",
+        "subject": "Economics",
+        "topic": "Macroeconomics",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "What is the primary function of the liver in the human body?",
+        "subject": "Biology",
+        "topic": "Human Anatomy",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "Name three famous Renaissance artists.",
+        "subject": "Art History",
+        "topic": "Renaissance",
+        "difficulty": "Medium",
+        "marks": 7
+      },
+      {
+        "question": "Simplify the expression: 3x + 5y - 2x + 7y.",
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Easy",
+        "marks": 4
+      },
+      {
+        "question": "Who is credited with the discovery of penicillin?",
+        "subject": "Medicine",
+        "topic": "Medical History",
+        "difficulty": "Hard",
+        "marks": 16
+      },
+      {
+        "question": "Define the concept of democracy.",
+        "subject": "Political Science",
+        "topic": "Government",
+        "difficulty": "Medium",
+        "marks": 9
+      },
+      {
+        "question": "What is the process of cellular respiration?",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Hard",
+        "marks": 15
+      },
+      {
+        "question": "Who is known as the 'Father of Computer Science'?",
+        "subject": "Computer Science",
+        "topic": "History of Computing",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "Define the concept of supply chain management.",
+        "subject": "Business",
+        "topic": "Supply Chain",
+        "difficulty": "Hard",
+        "marks": 19
+      },
+      {
+        "question": "In which year did the Industrial Revolution begin?",
+        "subject": "History",
+        "topic": "Industrial Revolution",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "What are the three branches of the United States government?",
+        "subject": "Political Science",
+        "topic": "Government",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "What is the capital of France?",
+        "subject": "Geography",
+        "topic": "World Capitals",
+        "difficulty": "Easy",
+        "marks": 4
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "subject": "Literature",
+        "topic": "Drama",
+        "difficulty": "Easy",
+        "marks": 3
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "subject": "Chemistry",
+        "topic": "Elements",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "Name the seven continents of the world.",
+        "subject": "Geography",
+        "topic": "World Geography",
+        "difficulty": "Medium",
+        "marks": 9
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "subject": "Biology",
+        "topic": "Medicine",
+        "difficulty": "Hard",
+        "marks": 12
+      },
+      {
+        "question": "What is the Pythagorean theorem?",
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Hard",
+        "marks": 14
+      },
+      {
+        "question": "Define the concept of human rights.",
+        "subject": "Social Studies",
+        "topic": "Human Rights",
+        "difficulty": "Medium",
+        "marks": 7
+      },
+      {
+        "question": "Who is the author of 'To Kill a Mockingbird'?",
+        "subject": "Literature",
+        "topic": "Novel",
+        "difficulty": "Hard",
+        "marks": 17
+      },
+      {
+        "question": "What is the function of mitochondria in a cell?",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Medium",
+        "marks": 9
+      },
+      {
+        "question": "Explain the concept of globalization.",
+        "subject": "Social Studies",
+        "topic": "Globalization",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "What is the formula for velocity?",
+        "subject": "Physics",
+        "topic": "Motion",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "Define Newton's first law of motion.",
+        "subject": "Physics",
+        "topic": "Laws of Motion",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "Explain the concept of work in physics.",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "What is the unit of electric charge?",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Medium",
+        "marks": 7
+      },
+      {
+        "question": "Derive the equation for photosynthesis.",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Hard",
+        "marks": 15
+      },
+      {
+        "question": "Explain the principles of supply and demand in economics.",
+        "subject": "Economics",
+        "topic": "Microeconomics",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "Solve the quadratic equation: ax^2 + bx + c = 0.",
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Medium",
+        "marks": 9
+      },
+      {
+        "question": "What is the structure of a DNA molecule?",
+        "subject": "Biology",
+        "topic": "Genetics",
+        "difficulty": "Hard",
+        "marks": 14
+      },
+      {
+        "question": "Explain the concept of inflation in economics.",
+        "subject": "Economics",
+        "topic": "Macroeconomics",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "State the first law of thermodynamics.",
+        "subject": "Physics",
+        "topic": "Thermodynamics",
+        "difficulty": "Hard",
+        "marks": 16
+      },
+      {
+        "question": "What is the formula for velocity?",
+        "subject": "Physics",
+        "topic": "Motion",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "Define Newton's first law of motion.",
+        "subject": "Physics",
+        "topic": "Laws of Motion",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "Explain the concept of work in physics.",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "What is the unit of electric charge?",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Medium",
+        "marks": 7
+      },
+      {
+        "question": "Derive the equation for photosynthesis.",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Hard",
+        "marks": 15
+      },
+      {
+        "question": "Explain the principles of supply and demand in economics.",
+        "subject": "Economics",
+        "topic": "Microeconomics",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "What is the formula for velocity?",
+        "subject": "Physics",
+        "topic": "Motion",
+        "difficulty": "Easy",
+        "marks": 2
+      },
+      {
+        "question": "Define Newton's first law of motion.",
+        "subject": "Physics",
+        "topic": "Laws of Motion",
+        "difficulty": "Easy",
+        "marks": 3
+      },
+    
+      {
+        "question": "Explain the concept of energy.",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Medium",
+        "marks": 6
+      },
+      {
+        "question": "What is the equation for kinetic energy?",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Medium",
+        "marks": 7
+      },    
+      {
+        "question": "Derive the formula for gravitational force.",
+        "subject": "Physics",
+        "topic": "Gravitation",
+        "difficulty": "Hard",
+        "marks": 11
+      },
+      {
+        "question": "Explain the theory of relativity.",
+        "subject": "Physics",
+        "topic": "Modern Physics",
+        "difficulty": "Hard",
+        "marks": 15
+      },
+      {
+        "question": "What is the concept of string theory in physics?",
+        "subject": "Physics",
+        "topic": "Theoretical Physics",
+        "difficulty": "Hard",
+        "marks": 19
+      },
+      {
+        "question": "Name three significant battles of World War II.",
+        "subject": "History",
+        "topic": "World War II",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "Define the concept of artificial intelligence.",
+        "subject": "Computer Science",
+        "topic": "Artificial Intelligence",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "Who is the author of '1984'?",
+        "subject": "Literature",
+        "topic": "Dystopian Fiction",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What is the significance of the Magna Carta?",
+        "subject": "History",
+        "topic": "Medieval History",
+        "difficulty": "Medium",
+        "marks": 9
+      },
+      {
+        "question": "Solve the quadratic equation: ax^2 + bx + c = 0.",
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Easy",
+        "marks": 4
+      },
+      {
+        "question": "Explain the process of cellular mitosis.",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Hard",
+        "marks": 16
+      },
+      {
+        "question": "Name three types of renewable energy sources.",
+        "subject": "Environmental Science",
+        "topic": "Renewable Energy",
+        "difficulty": "Medium",
+        "marks": 7
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "subject": "Physics",
+        "topic": "Modern Physics",
+        "difficulty": "Hard",
+        "marks": 17
+      },
+      {
+        "question": "Define the concept of cultural appropriation.",
+        "subject": "Sociology",
+        "topic": "Cultural Studies",
+        "difficulty": "Medium",
+        "marks": 8
+      },
+      {
+        "question": "What is the concept of dark matter in astrophysics?",
+        "subject": "Physics",
+        "topic": "Astrophysics",
+        "difficulty": "Hard",
+        "marks": 19
+      },
+      {
+        "question": "Name five influential women in history.",
+        "subject": "History",
+        "topic": "Women's History",
+        "difficulty": "Medium",
+        "marks": 12
+      },
+      {
+        "question": "Define the concept of blockchain technology.",
+        "subject": "Technology",
+        "topic": "Blockchain",
+        "difficulty": "Medium",
+        "marks": 11
+      },
+      {
+        "question": "Who is known as the 'Father of Microbiology'?",
+        "subject": "Biology",
+        "topic": "Microbiology",
+        "difficulty": "Easy",
+        "marks": 6
+      },
+      {
+        "question": "What is the purpose of the Kyoto Protocol?",
+        "subject": "Environmental Science",
+        "topic": "Climate Agreements",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "Solve the following calculus problem: ∫ cos(x) dx.",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Hard",
+        "marks": 15
+      },
+      {
+        "question": "Name three influential art movements of the 20th century.",
+        "subject": "Art History",
+        "topic": "Modern Art",
+        "difficulty": "Medium",
+        "marks": 9
+      },
+      {
+        "question": "Explain the concept of gene editing using CRISPR technology.",
+        "subject": "Genetics",
+        "topic": "CRISPR",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "Who is the author of 'The Great Gatsby'?",
+        "subject": "Literature",
+        "topic": "American Literature",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+      {
+        "question": "What are the major functions of the nervous system?",
+        "subject": "Biology",
+        "topic": "Human Anatomy",
+        "difficulty": "Medium",
+        "marks": 11
+      },
+      {
+        "question": "What is the purpose of the Human Genome Project?",
+        "subject": "Genetics",
+        "topic": "Genomics",
+        "difficulty": "Hard",
+        "marks": 20
+      },
+      {
+        "question": "Name three famous political philosophers.",
+        "subject": "Political Science",
+        "topic": "Political Philosophy",
+        "difficulty": "Medium",
+        "marks": 12
+      },
+      {
+        "question": "Define the concept of quantum entanglement in physics.",
+        "subject": "Physics",
+        "topic": "Quantum Mechanics",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "Who painted 'The Persistence of Memory'?",
+        "subject": "Art History",
+        "topic": "Surrealism",
+        "difficulty": "Medium",
+        "marks": 11
+      },
+      {
+        "question": "Explain the concept of cyber security.",
+        "subject": "Computer Science",
+        "topic": "Cybersecurity",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "Solve the following linear algebra problem: Ax = B.",
+        "subject": "Mathematics",
+        "topic": "Linear Algebra",
+        "difficulty": "Hard",
+        "marks": 16
+      },
+      {
+        "question": "Name five significant inventions of the Industrial Revolution.",
+        "subject": "History",
+        "topic": "Industrial Revolution",
+        "difficulty": "Medium",
+        "marks": 14
+      },
+      {
+        "question": "Define the concept of artificial neural networks.",
+        "subject": "Computer Science",
+        "topic": "Machine Learning",
+        "difficulty": "Hard",
+        "marks": 19
+      },
+      {
+        "question": "Who discovered the electron?",
+        "subject": "Physics",
+        "topic": "Atomic Physics",
+        "difficulty": "Easy",
+        "marks": 6
+      },
+      {
+        "question": "What is the purpose of the United Nations Universal Declaration of Human Rights?",
+        "subject": "Political Science",
+        "topic": "Human Rights",
+        "difficulty": "Medium",
+        "marks": 12
+      },
+      {
+        "question": "What is the concept of ethical hacking?",
+        "subject": "Computer Science",
+        "topic": "Cybersecurity",
+        "difficulty": "Medium",
+        "marks": 11
+      },
+      {
+        "question": "Name three influential female scientists in history.",
+        "subject": "Science",
+        "topic": "Women in Science",
+        "difficulty": "Hard",
+        "marks": 17
+      },
+      {
+        "question": "Define the concept of game theory in economics.",
+        "subject": "Economics",
+        "topic": "Game Theory",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "Who is credited with the invention of the printing press?",
+        "subject": "History",
+        "topic": "Printing Technology",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "Explain the process of cloud computing.",
+        "subject": "Technology",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium",
+        "marks": 12
+      },
+      {
+        "question": "Solve the following integral: ∫ e^x dx.",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Hard",
+        "marks": 15
+      },
+      {
+        "question": "Name three major environmental challenges facing the world today.",
+        "subject": "Environmental Science",
+        "topic": "Environmental Challenges",
+        "difficulty": "Medium",
+        "marks": 13
+      },
+      {
+        "question": "Define the concept of sustainable agriculture.",
+        "subject": "Agriculture",
+        "topic": "Sustainability",
+        "difficulty": "Hard",
+        "marks": 19
+      },
+      {
+        "question": "Who wrote 'The Canterbury Tales'?",
+        "subject": "Literature",
+        "topic": "Medieval Literature",
+        "difficulty": "Easy",
+        "marks": 7
+      },
+      {
+        "question": "What are the three laws of thermodynamics?",
+        "subject": "Physics",
+        "topic": "Thermodynamics",
+        "difficulty": "Medium",
+        "marks": 11
+      },
+      {
+        "question": "What is the concept of ethical hacking?",
+        "subject": "Computer Science",
+        "topic": "Cybersecurity",
+        "difficulty": "Medium",
+        "marks": 11
+      },
+      {
+        "question": "Name three influential female scientists in history.",
+        "subject": "Science",
+        "topic": "Women in Science",
+        "difficulty": "Hard",
+        "marks": 17
+      },
+      {
+        "question": "Define the concept of game theory in economics.",
+        "subject": "Economics",
+        "topic": "Game Theory",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "Who is credited with the invention of the printing press?",
+        "subject": "History",
+        "topic": "Printing Technology",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "Explain the process of cloud computing.",
+        "subject": "Technology",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium",
+        "marks": 12
+      },
+      {
+        "question": "Solve the following integral: ∫ e^x dx.",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Hard",
+        "marks": 15
+      },
+      {
+        "question": "Name three major environmental challenges facing the world today.",
+        "subject": "Environmental Science",
+        "topic": "Environmental Challenges",
+        "difficulty": "Medium",
+        "marks": 13
+      },
+      {
+        "question": "Define the concept of sustainable agriculture.",
+        "subject": "Agriculture",
+        "topic": "Sustainability",
+        "difficulty": "Hard",
+        "marks": 19
+      },
+      {
+        "question": "Who wrote 'The Canterbury Tales'?",
+        "subject": "Literature",
+        "topic": "Medieval Literature",
+        "difficulty": "Easy",
+        "marks": 7
+      },
+      {
+        "question": "What are the three laws of thermodynamics?",
+        "subject": "Physics",
+        "topic": "Thermodynamics",
+        "difficulty": "Medium",
+        "marks": 11
+      },
+      {
+        "question": "What is the concept of ethical hacking?",
+        "subject": "Computer Science",
+        "topic": "Cybersecurity",
+        "difficulty": "Medium",
+        "marks": 11
+      },
+      {
+        "question": "Name three influential female scientists in history.",
+        "subject": "Science",
+        "topic": "Women in Science",
+        "difficulty": "Hard",
+        "marks": 17
+      },
+      {
+        "question": "Define the concept of game theory in economics.",
+        "subject": "Economics",
+        "topic": "Game Theory",
+        "difficulty": "Hard",
+        "marks": 18
+      },
+      {
+        "question": "Who is credited with the invention of the printing press?",
+        "subject": "History",
+        "topic": "Printing Technology",
+        "difficulty": "Medium",
+        "marks": 10
+      },
+      {
+        "question": "Explain the process of cloud computing.",
+        "subject": "Technology",
+        "topic": "Cloud Computing",
+        "difficulty": "Medium",
+        "marks": 12
+      },
+      {
+        "question": "Solve the following integral: ∫ e^x dx.",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Hard",
+        "marks": 15
+      },
+      {
+        "question": "Name three major environmental challenges facing the world today.",
+        "subject": "Environmental Science",
+        "topic": "Environmental Challenges",
+        "difficulty": "Medium",
+        "marks": 13
+      },
+      {
+        "question": "Define the concept of sustainable agriculture.",
+        "subject": "Agriculture",
+        "topic": "Sustainability",
+        "difficulty": "Hard",
+        "marks": 19
+      },
+      {
+        "question": "Who wrote 'The Canterbury Tales'?",
+        "subject": "Literature",
+        "topic": "Medieval Literature",
+        "difficulty": "Easy",
+        "marks": 7
+      },
+      {
+        "question": "What are the three laws of thermodynamics?",
+        "subject": "Physics",
+        "topic": "Thermodynamics",
+        "difficulty": "Medium",
+        "marks": 11
+      },
+    {
+        "question": "Who is the current president of the United States?",
+        "subject": "Political Science",
+        "topic": "Current Affairs",
+        "difficulty": "Easy",
+        "marks": 1
+    },
+    {
+        "question": "Name the largest ocean on Earth.",
+        "subject": "Geography",
+        "topic": "Oceans",
+        "difficulty": "Easy",
+        "marks": 1
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "subject": "Geography",
+        "topic": "World Capitals",
+        "difficulty": "Easy",
+        "marks": 3
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "subject": "Literature",
+        "topic": "Drama",
+        "difficulty": "Easy",
+        "marks": 3
+    },
+    {
+        "question": "What is the chemical symbol for oxygen?",
+        "subject": "Chemistry",
+        "topic": "Elements",
+        "difficulty": "Easy",
+        "marks": 3
+    },
+    {
+        "question": "Name the first human to orbit the Earth.",
+        "subject": "History",
+        "topic": "Space Exploration",
+        "difficulty": "Easy",
+        "marks": 3
+    },
+    {
+        "question": "What is the square root of 25?",
+        "subject": "Mathematics",
+        "topic": "Arithmetic",
+        "difficulty": "Easy",
+        "marks": 2
+    },
+    {
+        "question": "Define the term 'Photosynthesis.'",
+        "subject": "Biology",
+        "topic": "Plant Biology",
+        "difficulty": "Easy",
+        "marks": 2
+    },
+    {
+        "question": "Name the process of converting water into vapor.",
+        "subject": "Science",
+        "topic": "Water Cycle",
+        "difficulty": "Easy",
+        "marks": 2
+    },
+    {
+        "question": "Who painted the 'Mona Lisa'?",
+        "subject": "Art History",
+        "topic": "Renaissance Art",
+        "difficulty": "Easy",
+        "marks": 2
+    }
+]
+  
